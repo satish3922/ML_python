@@ -1,4 +1,4 @@
-#!/bin/env python3
+#!/usr/bin/env python3
 
 # Defining old value of email and password
 email_old = "admin@mywbut.com"

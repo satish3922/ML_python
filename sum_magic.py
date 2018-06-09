@@ -1,4 +1,4 @@
-#!/bin/env python3
+#!/usr/bin/env python3
 
 # Program of magic Addition
 #Taking input of 1st Number

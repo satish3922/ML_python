@@ -1,4 +1,4 @@
-#!/bin/env python3
+#!/usr/bin/env python3
 
 # Taking input any number
 print("Calculate table of a Number Quickly")
