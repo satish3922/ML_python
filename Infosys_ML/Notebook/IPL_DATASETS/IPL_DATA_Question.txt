@@ -1,0 +1,10 @@
+1. Season-wise Purple Cap holders--------------------------10 Marks
+2. Heatmap to show team vs over analysis on wickets taken per over----------------------8 Marks
+3. Best batsman in death overs(17-20) in terms of Strike rate(Runs/100 balls)( Criteria: Has played a min of 50 balls in total)------------10 marks
+4. Create a function in which if you pass the name of a batsman it should return the name of the bowler who has dismissed him maximum times( eg if you pass V Kohli the answer should be SL Malinga-----6(times))----------12 Marks
+5. Find the name of the umpire who has attended most number of matches-----------5 Marks
+6. Generate a heatmap between top 20 batsman vs top 20 bowlers in terms of runs scored by the batsman----------------16 Marks
+7. Fetch the name of top 10 bowlers who have the best economy(Runs/over) in the death overs(17-20)[Note: the bowler should have bowled a minimum of 10 overs.-----------9 Marks
+8. Fetch the name of top 10 fielders ie in terms of catches(Criteria: Should not be a wicketkeeper)-----------10 Marks
+9. Create a function by the name of team_performance, which will accept a valid ipl team name as a parameter and will return 2 strings, one of the team against which the team has won most matches and 2nd against which the team has lost most matches-----------13 Marks
+10. Team wise record that is matches played and matches won-------------------------7 Marks
